@@ -1,0 +1,1 @@
+{"Go_1": {"Submerge": {"depth": 0.2}}, "Move_1": {"Move": {"axis_x": 0.4, "axis_y": 0, "axis_z": 0, "time": 12}}, "Turn_1": {"Turning": {"angle": -20}}, "Wait_1": {"Waiting": {"time": 3}}, "End": {"Emerge": 1}}
